@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(177, 216, 37);
+    color:blueviolet
+}
+
+h1 {
+    color:blue
+}
+
+.krack {
+    color:black;
+    border-radius: 20px;
+    padding: 2opx;
+    background-color: red;
+}
+
+.akanni {
+    color: white;
+    background-color: purple;
+    font-family: 40px;
+
+}
+
+#yusuf {
+    color:blue;
+    background-color: green;
+    font-size: 40px;
+    border: 2px solid white
+}
+
+p {
+    color:rgb(7, 240, 38);
+    background-color: blue;
+    border-radius:50px;
+    padding:70px;
+}
+
+.image {
+    height: 80px;
+    width: 80px;
+}
