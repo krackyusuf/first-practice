@@ -1,0 +1,23 @@
+h1 {
+    color:rgb(216, 240, 4);
+    border: dotted;
+    border-radius:10px;
+    border-color: blueviolet;
+}
+    image {
+        width: 20px;
+        Height: Auto;
+    }
+
+    h2 {
+    color:rgb(44, 6, 148);
+    border: dotted;
+    border-radius:10px;
+    border-color: rgb(1, 59, 1);
+    padding: 10px;
+    text-size-adjust: medium;
+    }
+
+    p {
+        color:red
+    }
